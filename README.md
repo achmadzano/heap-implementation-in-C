@@ -7,6 +7,7 @@ C. Output will display 2 Top Sales with the following output format:
 2. [Drink Names] [Sales Amount]
 
 INPUT
+:
 5
 10 BC
 5 MC
